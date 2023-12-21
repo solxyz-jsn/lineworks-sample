@@ -44,7 +44,7 @@ Developer Console：<https://dev.worksmobile.com/jp/console/openapi/v2/app/list/
 
 ### サンプルプロジェクトのクローン
 
-コマンドライン実行画面から、以下のコマンドを実行してください。
+コマンドライン実行画面から、次のコマンドを実行してください。
 
 ```shell
 git clone https://github.com/solxyz-jsn/lineworks-sample
@@ -60,7 +60,7 @@ Visual Studio Codeでフォルダ`lineworks-sample`を開いてください。
 
 （画像のVisual Studio Codeはバージョン1.83です）
 
-補足として、Visual Studio Code上でターミナルを開いていれば、ターミナルから以下のコマンドを実行しても起動できます。
+補足として、Visual Studio Code上でターミナルを開いていれば、ターミナルから次のコマンドを実行しても起動できます。
 
 ```shell
 ./gradlew bootRun
