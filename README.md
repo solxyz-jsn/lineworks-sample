@@ -56,9 +56,9 @@ Visual Studio Codeでフォルダ`lineworks-sample`を開いてください。
 
 左メニューの`JAVA PROJECT`から、プロジェクト`lineworks-sample`を右クリックして`Run`を選択してください。
 
-<img alt="ポート番号" src="image/sample_bot_setting05.png" width="60%">
+<img alt="起動" src="image/sample_bot_setting05.png" width="60%">
 
-（画像はバージョン1.83のものです）
+（画像のVisual Studio Codeはバージョン1.83です）
 
 補足として、Visual Studio Code上でターミナルを開いていれば、ターミナルから以下のコマンドを実行しても起動できます。
 
@@ -72,7 +72,7 @@ Visual Studio Codeでフォルダ`lineworks-sample`を開いてください。
 
 #### ポート転送設定
 
-LINE WORKSからのHTTPS POSTリクエストを受信するために、ポート転送の設定を行う必要があります。この手順には、GitHubのアカウントが必須となります。
+LINE WORKSからのHTTPS POSTリクエストを受信するために、ポート転送の設定を行う必要があります。この手順には、**GitHubのアカウントが必須**となります。
 
 Visual Studio Code上でターミナルを開いてください。
 
