@@ -64,7 +64,7 @@ Visual Studio Codeでフォルダ`lineworks-sample`を開いてください。
 
 ### アプリケーション起動後設定
 
-起動後に行う設定の詳細は、コース「LINE WORKS API基礎」でも説明を記載しています。併せて参考にしてください。
+起動後に行う設定の詳細は、[SOLXYZ Academy](https://academy.solxyz.co.jp)内コース「LINE WORKS API基礎」でも説明を記載しています。併せて参考にしてください。
 
 #### ポート転送設定
 
