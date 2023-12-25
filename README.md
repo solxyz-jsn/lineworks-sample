@@ -60,7 +60,7 @@ Visual Studio Codeでフォルダ`lineworks-sample`を開いてください。
 
 （画像のVisual Studio Codeはバージョン1.83です）
 
-補足として、Visual Studio Code上でターミナルを開いていれば、ターミナルから次のコマンドを実行しても起動できます。
+補足として、Visual Studio Code上でターミナルを開いていれば、ターミナルから次のコマンドを実行しても起動できます（`build.gradle`と同一のディレクトリから実行すること）。
 
 ```shell
 ./gradlew bootRun
@@ -68,7 +68,7 @@ Visual Studio Codeでフォルダ`lineworks-sample`を開いてください。
 
 ### アプリケーション起動後設定
 
-起動後に行う設定の詳細は、コース「LINE WORKS API基礎」でも説明を記載しています。詳細はそちらを参照してください。
+起動後に行う設定の詳細は、コース「LINE WORKS API基礎」でも説明を記載しています。併せて参考にしてください。
 
 #### ポート転送設定
 
